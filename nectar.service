@@ -1,0 +1,9 @@
+[Unit]
+Description=Nectar - Make your stuff immortal
+
+[Service]
+ExecStart=/usr/local/share/nectar/nectar.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
