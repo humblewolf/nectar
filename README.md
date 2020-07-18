@@ -1,6 +1,6 @@
 # Nectar
 
-Nectar helps do things once a linux machine comes back to life after a boot or crash.
+Nectar helps you do things once a linux machine with systemd comes back to life after a boot or crash. In other words it is a boilerplate which can save you some time and headache. Cheers !!!
 
 # How to install ?
 
